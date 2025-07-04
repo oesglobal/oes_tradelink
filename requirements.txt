@@ -8,3 +8,4 @@ ta
 scikit-learn
 ml_dtypes
 ccxt
+matplotlib
