@@ -7,3 +7,4 @@ python-binance==0.7.9
 ta
 scikit-learn
 ml_dtypes
+ccxt
